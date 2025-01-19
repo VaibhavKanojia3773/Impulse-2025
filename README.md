@@ -33,6 +33,9 @@ This project is designed to tackle the challenge of classifying EEG seizure type
    - Applied denoising techniques to clean noisy EEG data, improving model accuracy and ensuring high signal quality.
 
 ## Results
+![14](https://github.com/user-attachments/assets/1228ec1b-24d9-40f6-87c9-048c7c003d92)
+![15](https://github.com/user-attachments/assets/4757e278-16f6-415a-8c11-e4b558535347)
+![16](https://github.com/user-attachments/assets/e0a1332b-a160-40d6-b59f-ee26e92a3371)
 
 - Achieved **exceptionally high classification accuracy**, leveraging a combination of advanced generative models and feature extraction techniques.
 - **Synthetic Data**: Demonstrated that synthetic EEG signals could be effectively integrated into the training process, significantly improving model performance.
